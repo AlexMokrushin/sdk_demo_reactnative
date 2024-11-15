@@ -1,4 +1,12 @@
-# Steps to build iOS sample of CUEAudio/sdk_demo_reactnative
+# iOS
+
+
+## Steps to build iOS sample of CUEAudio/sdk_demo_reactnative
+
+First, follow all the initial steps from the README of the native iOS SDK demo (here: [ObjC](https://github.com/CUEAudio/sdk_demo_ios_objc/blob/main/README.md), [Swift](https://github.com/CUEAudio/sdk_demo_ios/blob/main/README.md), [SPM](https://github.com/CUEAudio/sdk_demo_ios_spm/blob/main/README.md)).
+
+Next, follow the steps below, which are specific to React Native implementations. 
+
 
 Open Terminal and run one by one the following commands:
 
@@ -29,3 +37,10 @@ In case of error in Yoga file fix it by pressing “Fix” button: 
 
 
 Try to build the project in XCode again. This time it should finish successfully.
+
+
+# Android
+
+Follow the integration steps in our [native Android SDK demo](https://github.com/CUEAudio/sdk_demo_android/blob/main/README.md). 
+
+
